@@ -33,3 +33,13 @@ A falha está na ausência de validação durante a desserialização de objetos
 ## Usage
 
 python3 CVE-2025-20124.py --url https://ise.target.com --session TOKEN --cmd "id"
+
+Contact
+------------
+Caso queira me contatar ou precise de algum serviço, me encontre nas seguintes plataformas:
+
+Discord User: 4wj.
+
+Instargram: @glowwz9
+
+Email: vliyanie1337@proton.me
